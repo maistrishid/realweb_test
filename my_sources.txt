@@ -1,0 +1,6 @@
+1) James G., Witten D., Hastie T., Tibshirani R., An Introduction to Statistical Learning;
+2) Nielsen M., Neural Networks and Deep Learning;
+3) Jurafsky D. Martin J., Speech and Language Processing, 2-nd ed.;
+4) Y. Goldberg, Neural Network Methods in Natural Language Processing;
+5) A. Vaswani et al., Attention Is All You Need;
+6) Документации scikit-learn, Keras, pytorch и transformers;
